@@ -1,3 +1,3 @@
 # TPO- Hello world!
 ## Compilador
-- Utilice el compilador mingw64
+- Utilicé el compilador [mingw64] (https://www.mingw-w64.org/)
